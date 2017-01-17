@@ -1,11 +1,13 @@
 {
     "files.exclude": {
         "**/*.pyc": true
+    },
+    "files.autoSave": "afterDelay",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.pep8Args": ["--max-line-length=119", "--hang-closing"],
+    "window.zoomLevel": 0,
+    "jshint.options": {
+        "esversion": 6
     }
-,
-"files.autoSave": "afterDelay",
-"python.linting.pylintEnabled": false,
-"python.linting.pep8Enabled": true,
-"python.linting.pep8Args": ["--max-line-length=119", "--hang-closing"], 
-"window.zoomLevel": 0
 }

@@ -34,3 +34,7 @@ index-url = http://mirrors.aliyun.com/pypi/simple
 trusted-host = mirrors.aliyun.com
 ```  
 
+#### 使用cnpm代替npm
+
+`npm install -g cnpm --registry=https://registry.npm.taobao.org`  
+

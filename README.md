@@ -6,6 +6,7 @@
 - [配置文件](#配置文件)  
 - [APP](#app)
 - [服务器基本设置](#服务器基本设置)
+- [VSCode插件](#VSCode插件)
 
 
 ## 配置文件  
@@ -38,3 +39,6 @@ trusted-host = mirrors.aliyun.com
 
 `npm install -g cnpm --registry=https://registry.npm.taobao.org`  
 
+## VSCode插件  
+
+- [empty-ident](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent)  自动移除空行的缩进
